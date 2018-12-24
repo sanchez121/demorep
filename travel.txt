@@ -2,6 +2,7 @@ Packing list
 ------------
 1. Shoes
 2. Coat
+3. Camera
 
 Picnic list
 -------------
